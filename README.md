@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Miner-is-here
 - 👀 I’m interested in programming, playing saxophone and learning german.
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: horniktomas92@gmail.com
 - 😄 Pronouns: He/him
